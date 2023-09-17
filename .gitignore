@@ -1,6 +1,6 @@
-./build
+build
 !./build/.keep
-./tokens
+tokens
 
 # Logs
 logs
