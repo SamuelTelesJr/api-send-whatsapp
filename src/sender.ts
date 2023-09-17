@@ -70,7 +70,7 @@ class Sender {
             // this.sendText("595976814735@c.us", "Olá isso é teste da minha API.");
         }
 
-        create('send-message-report', qr, status)
+        create('send-message-report', qr)
         .then((client) => start(client))
         .catch((error) => console.error(error))
     }
