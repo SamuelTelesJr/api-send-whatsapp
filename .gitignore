@@ -1,6 +1,6 @@
 build
 !./build/.keep
-tokens/
+tokens
 # dist/
 
 # Logs
@@ -94,7 +94,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# dist
 
 # Gatsby files
 .cache/
