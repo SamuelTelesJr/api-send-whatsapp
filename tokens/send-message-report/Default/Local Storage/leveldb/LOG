@@ -1,3 +1,6 @@
-2023/09/17-02:50:07.026 2790 Reusing MANIFEST C:\xampp\htdocs\sistema2e\api-whatsapp\api-send-whatsapp\tokens\send-message-report\Default\Local Storage\leveldb/MANIFEST-000001
-2023/09/17-02:50:07.030 2790 Recovering log #3
-2023/09/17-02:50:07.034 2790 Reusing old log C:\xampp\htdocs\sistema2e\api-whatsapp\api-send-whatsapp\tokens\send-message-report\Default\Local Storage\leveldb/000003.log 
+2023/09/17-03:19:24.664 55bc Reusing MANIFEST C:\xampp\htdocs\sistema2e\api-whatsapp\api-send-whatsapp\tokens\send-message-report\Default\Local Storage\leveldb/MANIFEST-000001
+2023/09/17-03:19:24.669 55bc Recovering log #3
+2023/09/17-03:19:24.673 55bc Reusing old log C:\xampp\htdocs\sistema2e\api-whatsapp\api-send-whatsapp\tokens\send-message-report\Default\Local Storage\leveldb/000003.log 
+2023/09/17-03:21:25.007 55bc Level-0 table #5: started
+2023/09/17-03:21:25.014 55bc Level-0 table #5: 25148 bytes OK
+2023/09/17-03:21:25.017 55bc Delete type=0 #3

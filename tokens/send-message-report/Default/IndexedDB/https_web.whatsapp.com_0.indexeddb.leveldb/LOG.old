@@ -1,3 +1,2 @@
-2023/09/17-02:32:56.246 3f60 Reusing MANIFEST C:\xampp\htdocs\sistema2e\api-whatsapp\api-send-whatsapp\tokens\send-message-report\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/17-02:32:56.247 3f60 Recovering log #2681
-2023/09/17-02:32:56.271 3f60 Reusing old log C:\xampp\htdocs\sistema2e\api-whatsapp\api-send-whatsapp\tokens\send-message-report\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002681.log 
+2023/09/17-03:19:10.335 25f0 Creating DB C:\xampp\htdocs\sistema2e\api-whatsapp\api-send-whatsapp\tokens\send-message-report\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/09/17-03:19:10.344 25f0 Reusing MANIFEST C:\xampp\htdocs\sistema2e\api-whatsapp\api-send-whatsapp\tokens\send-message-report\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
