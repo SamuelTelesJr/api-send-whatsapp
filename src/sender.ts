@@ -77,4 +77,3 @@ class Sender {
 }
 
 export default Sender
-
